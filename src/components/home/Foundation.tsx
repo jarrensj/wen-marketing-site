@@ -38,7 +38,7 @@ function Description() {
       <Typography color="text.secondary">
         There is no team allocation or compensation for early contributors. With
         a simple breakdown of 70% community airdrop and 30% LP/strategic
-        reserve, our core focus is on giving back to Solana
+        reserve, our core focus is on giving back to Solana.
       </Typography>
     </Column>
   );
